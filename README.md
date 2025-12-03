@@ -172,7 +172,7 @@ npm run build
 
 ## 🧾 License
 
-[![View License](https://img.shields.io/badge/View%20License-MIT-green?style=for-the-badge)](LICENSE)
+[![View License](https://img.shields.io/badge/View%20License-MIT-green?style=for-the-badge)](License)
 
 ## 👨‍💻 Author
 **Ark Barua**
