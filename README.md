@@ -43,6 +43,11 @@ https://tinyhawk-backend.onrender.com
 - Backend deployed on Render
 - Frontend deployed on Vercel
 
+## 📸 Screenshots
+
+### 🔹 Landing Page
+![TinyHawk UI](assets/tinyhawk-ui.png)
+
 ## 🏗️ Architecture
 
 ```
