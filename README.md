@@ -46,7 +46,7 @@ https://tinyhawk-backend.onrender.com
 ## 📸 Screenshots
 
 ### 🔹 Landing Page
-![TinyHawk UI](assets/tinyhawk-ui.png)
+![TinyHawk UI](assets/demo.png)
 
 ## 🏗️ Architecture
 
